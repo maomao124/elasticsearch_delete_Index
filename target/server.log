@@ -1,0 +1,10 @@
+2022-05-27 12:00:33.833  INFO 4600 --- [main] m.e.ElasticsearchDeleteIndexApplication  : Starting ElasticsearchDeleteIndexApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 4600 (H:\程序\大三下期\elasticsearch删除索引\target\elasticsearch_delete_Index-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\elasticsearch删除索引\target)
+2022-05-27 12:00:33.836 DEBUG 4600 --- [main] m.e.ElasticsearchDeleteIndexApplication  : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-27 12:00:33.837  INFO 4600 --- [main] m.e.ElasticsearchDeleteIndexApplication  : The following 1 profile is active: "dev"
+2022-05-27 12:00:34.967  INFO 4600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-27 12:00:34.979  INFO 4600 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-27 12:00:34.980  INFO 4600 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-27 12:00:35.081  INFO 4600 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-27 12:00:35.082  INFO 4600 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1178 ms
+2022-05-27 12:00:35.977  INFO 4600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-27 12:00:35.993  INFO 4600 --- [main] m.e.ElasticsearchDeleteIndexApplication  : Started ElasticsearchDeleteIndexApplication in 2.785 seconds (JVM running for 3.26)
